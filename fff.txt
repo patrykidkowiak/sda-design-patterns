@@ -1,2 +1,0 @@
-{name='Jan', surname='Nowak', email='nowak@gmail.com', salary=10000.0}
-{name='Jan', surname='Andrzejewski', email='andrzejewski@gmail.com', salary=8000.0}
